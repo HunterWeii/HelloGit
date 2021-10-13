@@ -9,3 +9,7 @@ fn main() {
   let mut y = 10;
   y = 100;
 }
+
+fn calc_number(a: i32, b: i32) -> i32 {
+  a + b
+}
