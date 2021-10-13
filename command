@@ -36,3 +36,24 @@ note: checkout to master branch to see the different =D
 # At wei - branch
 msg: come on just let it gooo
   # switch to master branch and push msg which is modified at wei-branch
+
+checkout back to wei-branch and run 
+  git merge origin master 
+
+then run 
+  git status
+
+you will notice working tree is clean
+
+you can do 
+  git push -f origin wei
+   
+to force it update local file to remote file
+
+# at wei branch 
+msg: dont get so tired
+
+you can run
+  git merge --abort 
+
+to revert the merging
