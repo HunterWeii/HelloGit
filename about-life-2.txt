@@ -6,3 +6,4 @@ about life 2
 
 this is text from MASTER
 Oh i changed my mind.
+This is text from FEATURE-1.
