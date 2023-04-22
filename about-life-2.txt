@@ -6,3 +6,4 @@ about life 2
 
 this is text from MASTER
 Oh i changed my mind.
+this is second text from MASTER.
