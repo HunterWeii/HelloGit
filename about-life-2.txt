@@ -5,3 +5,4 @@ about life 2
 - i want to change my life
 
 this is text from MASTER
+Oh i changed my mind.
